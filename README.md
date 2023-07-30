@@ -85,11 +85,18 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 - Special thanks to [Bootstrap](https://getbootstrap.com/) for providing an excellent front-end framework.
 
-## 📞 Contact
+## 📬 Contact
 
-For any questions or inquiries, please contact:
+Feel free to reach out to me via the following channels:
 
-Sannitya
-mssannitya@gmail.com
+- **Email**: [mssannitya@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/m-s-052080214/]
+
+## 🌟 Let's Connect!
+
+I'm always eager to collaborate on exciting projects or discuss interesting ideas. Connect with me, and let's create something awesome together!
+
+Thank you for stopping by! ✨
+
 
 🎉 Happy Learning! 🎓
