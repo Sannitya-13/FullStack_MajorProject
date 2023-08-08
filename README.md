@@ -75,13 +75,8 @@ The application will start running on `http://localhost:3000`. Open this URL in 
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to submit a pull request.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it. However, any usage with malicious intent is strictly prohibited.
 
 ## 🙏 Acknowledgments
-
-- Thanks to the open-source community for their invaluable contributions.
 
 - Special thanks to [Bootstrap](https://getbootstrap.com/) for providing an excellent front-end framework.
 
